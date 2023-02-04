@@ -27,20 +27,20 @@
 # Example game-mode
 ```
 GameModes:
-  uhc:
-    CompleteName: "&cUltra HardCore"
-    DiscordWebhookName: "Ultra HardCore"
+  example1:
+    CompleteName: "&aExample One"
+    DiscordWebhookName: "Example One"
     ItemInSelector: "GOLDEN_APPLE"
-    NameOfTheCopyFolder: "uhc"
+    NameOfTheCopyFolder: "example1"
     Enabled: true
     SpecificalPermission: ""
-  ww:
-    CompleteName: "&4&lWere-Wolf UHC"
-    DiscordWebhookName: "Were-Wolf UHC"
+  example2:
+    CompleteName: "&4&lExample Two"
+    DiscordWebhookName: "Example Two"
     ItemInSelector: "DIAMOND_SWORD"
-    NameOfTheCopyFolder: "ww"
+    NameOfTheCopyFolder: "example2"
     Enabled: true
-    SpecificalPermission: ""
+    SpecificalPermission: "example.example2"
 ```
 
 ## 🙇 Authors
