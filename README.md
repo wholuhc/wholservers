@@ -30,6 +30,7 @@ GameModes:
   example1:
     CompleteName: "&aExample One"
     DiscordWebhookName: "Example One"
+    LoreItemExplication: "This is the explication of the first game-mode."
     ItemInSelector: "GOLDEN_APPLE"
     NameOfTheCopyFolder: "example1"
     Enabled: true
@@ -37,6 +38,7 @@ GameModes:
   example2:
     CompleteName: "&4&lExample Two"
     DiscordWebhookName: "Example Two"
+    LoreItemExplication: "This is the explication of the second game-mode."
     ItemInSelector: "DIAMOND_SWORD"
     NameOfTheCopyFolder: "example2"
     Enabled: true
