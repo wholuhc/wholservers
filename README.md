@@ -46,11 +46,11 @@ GameModes:
 ```
 
 ## 🙇 Authors
-#### Curiosow - Main developper
+#### [Curiosow](https://github.com/Curiosow) - Main developper
 - Twitter: [@CuriosowLeOuf](https://twitter.com/CuriosowLeOuf)
 - Github: [@Curiosow](https://github.com/curiosow)
-#### Ilix360 - Aid in development back
+#### [Ilix360](https://github.com/Curiosow) - Aid in development back
  - Github: [@Ilix360](https://github.com/curiosow)
-#### Marf - Help for Linux
+#### [Marf](https://github.com/MarftTv) - Help for Linux
 - Twitter: [@MarfLaMenace](https://twitter.com/marflamenace)
 - Github: [@Marfttv](https://github.com/marfttv)        
