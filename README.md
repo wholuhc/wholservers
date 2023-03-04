@@ -1,6 +1,7 @@
 
 <h1 align="center">Welcome to Whol'!</h1>
 <h3 align="center">Whol'Servers allows you to automate and create servers on demand.</h3>
+<h5 align="center">This version is still under development so it is not downloadable but it arrives very soon:)</h5>
 
 ## 🧐 Features    
 - Add a game mode in less than 5 minutes.
