@@ -1,0 +1,23 @@
+name: WholServers
+version: 1.0.2
+description: The all in one Servers Automation.
+prefix: ADMIN - WholServers
+authors: [Curiosow, Ilix360]
+website: shop.wholuhc.com
+main: fr.curiosow.sad.main
+commands:
+  host:
+    usage: "Voir la liste des serveurs disponibles."
+  managehosts:
+    permission: wholservers.managehosts
+    permission-message: "§cVous n'avez pas la permission."
+    usage: "Gérer les serveurs lancés et quelques autres paramêtres"
+  fidelity:
+    usage: "Gérer votre fidélité aux hosts."
+  whol:
+    permission: wholservers.whol
+    permission-message: "§cVous n'avez pas la permission."
+  ticket:
+    usage: "Gérer vos tickets pour les hosts."
+  wholjoin:
+    usage: "Rejoindre une partie manuellement."
