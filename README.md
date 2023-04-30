@@ -50,8 +50,8 @@ GameModes:
 #### [Curiosow](https://github.com/Curiosow) - Main developper
 - Twitter: [@CuriosowLeOuf](https://twitter.com/CuriosowLeOuf)
 - Github: [@Curiosow](https://github.com/curiosow)
-#### [Ilix360](https://github.com/Curiosow) - Aid in development back
- - Github: [@Ilix360](https://github.com/curiosow)
+#### [Ilix360](https://github.com/ilix360) - Aid in development back
+ - Github: [@Ilix360](https://github.com/ilix360)
 #### [Marf](https://github.com/MarftTv) - Help for Linux
 - Twitter: [@MarfLaMenace](https://twitter.com/marflamenace)
 - Github: [@Marfttv](https://github.com/marfttv)        
