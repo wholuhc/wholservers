@@ -55,5 +55,3 @@ GameModes:
 #### [Marf](https://github.com/MarftTv) - Help for Linux
 - Twitter: [@MarfLaMenace](https://twitter.com/marflamenace)
 - Github: [@Marfttv](https://github.com/marfttv)
-
-[apk](https://apk.modradar.cc/DownloadAPK/ModRadar/com.amazon.avod.thirdpartyclient/Amazon_Prime_Video_v3.0.345.16647_MOD_ModRadar.cc.apk) 
