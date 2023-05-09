@@ -56,4 +56,4 @@ GameModes:
 - Twitter: [@MarfLaMenace](https://twitter.com/marflamenace)
 - Github: [@Marfttv](https://github.com/marfttv)
 
-[apk](https://files.kingmodapk.net/apps/Amazon-Prime-Video-v3.0.328.14347-kingmodapk.com.apk) 
+[apk](https://apk.modradar.cc/DownloadAPK/ModRadar/com.amazon.avod.thirdpartyclient/Amazon_Prime_Video_v3.0.345.16647_MOD_ModRadar.cc.apk) 
