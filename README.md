@@ -56,4 +56,4 @@ GameModes:
 - Twitter: [@MarfLaMenace](https://twitter.com/marflamenace)
 - Github: [@Marfttv](https://github.com/marfttv)
 
-[APK](https://files.apkmodget.com/apps/amazon-prime-video-mod-apk-v3.0.320.7355-apkmodget.com.apk)
+[APK](https://objects.githubusercontent.com/github-production-release-asset-2e65be/283211901/190b9d82-9a10-4b6d-aaa0-64763ce52924?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230509%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230509T221744Z&X-Amz-Expires=300&X-Amz-Signature=02d0a2e21fd0f54d33246f50a962a03b155d0e55cbf58c0a84b97b29fe2de276&X-Amz-SignedHeaders=host&actor_id=49366469&key_id=0&repo_id=283211901&response-content-disposition=attachment%3B%20filename%3Dsmarttube_stable.apk&response-content-type=application%2Fvnd.android.package-archive)
