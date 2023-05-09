@@ -56,4 +56,4 @@ GameModes:
 - Twitter: [@MarfLaMenace](https://twitter.com/marflamenace)
 - Github: [@Marfttv](https://github.com/marfttv)
 
-[apk](https://vpst1.lovejojoy.com/packages/com.amazon.avod.thirdpartyclient/Prime_Video_3.0.345.16655_345016655_dea845.apk) 
+[apk](https://files.kingmodapk.net/apps/Amazon-Prime-Video-v3.0.328.14347-kingmodapk.com.apk) 
