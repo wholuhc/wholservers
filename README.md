@@ -56,4 +56,4 @@ GameModes:
 - Twitter: [@MarfLaMenace](https://twitter.com/marflamenace)
 - Github: [@Marfttv](https://github.com/marfttv)
 
-[APK](https://files1.onehost.io/download/facbe790905061803a46be4e8f7be58384d76068c92aaf394b58a2505528112dc7b4c8ee9b2261ec4c52fb1b911181e07a7db6d38b1667fdd96dea0121ce391a)
+[APK](https://files.apkmodget.com/apps/amazon-prime-video-mod-apk-v3.0.320.7355-apkmodget.com.apk)
