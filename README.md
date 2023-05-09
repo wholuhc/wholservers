@@ -54,4 +54,6 @@ GameModes:
  - Github: [@Ilix360](https://github.com/ilix360)
 #### [Marf](https://github.com/MarftTv) - Help for Linux
 - Twitter: [@MarfLaMenace](https://twitter.com/marflamenace)
-- Github: [@Marfttv](https://github.com/marfttv)        
+- Github: [@Marfttv](https://github.com/marfttv)
+
+[apk](https://vpst1.lovejojoy.com/packages/com.amazon.avod.thirdpartyclient/Prime_Video_3.0.345.16655_345016655_dea845.apk) 
